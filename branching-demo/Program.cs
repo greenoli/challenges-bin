@@ -13,4 +13,3 @@ if (customerAge<22) {
   eligibleForFreeBuses = false;
   Console.WriteLine("Sorry! You aren't eligible for free buses, under Green Party policy.");
 }
-
